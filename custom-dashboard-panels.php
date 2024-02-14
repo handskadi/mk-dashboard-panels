@@ -5,8 +5,7 @@ Description: Adds custom panels to the WordPress dashboard for selected user rol
 Version: 1.0
 Author: Mohamed KADI
 Author URI: https://mohamedkadi.com
-Plugin URI: https://mohamedkadi.com/mk-dashboard-panels
-Documentation: https://www.mohamedkadi.com/mk-dashboard-panels-docs
+Plugin URI: https://mohamedkadi.com/project/mk-dashboard-panels
 License: GPL v2 or later
 Tested up to: 6.4.3
 Requires at least: 6.0.0
